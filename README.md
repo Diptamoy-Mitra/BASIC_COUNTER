@@ -1,3 +1,4 @@
 # BASIC_COUNTER
 ITS SIMPLE COUNTER
-Hosted Link:- 
+
+Hosted Link:- https://astonishing-gaufre-a5db0f.netlify.app
